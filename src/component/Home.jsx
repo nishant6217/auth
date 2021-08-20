@@ -27,7 +27,7 @@ function Home(props) {
           </Typography>
           <Link to="signin" style={{ textDecoration: "none", color: "#fff" }}>
             <Button variant="outlined" color="inherit">
-              Demo Login
+              Demo SignUp
             </Button>
           </Link>
         </Toolbar>
